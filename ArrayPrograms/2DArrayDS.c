@@ -1,4 +1,4 @@
-/*	---- 2D Array - DS ----
+/*	---- 2D Array - DS ------
 	Context 
 		Given a 6 X 6 2D Array, :
 
